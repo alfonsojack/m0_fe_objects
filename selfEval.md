@@ -1,5 +1,5 @@
 # Self-Evaluation
 
-- WThis final CFU encompassed everything you've learned in Mod 0, and maybe even required some learning outside of what you've explicitly been taught. How did it feel as you faced these challenges?
-- How is your workflow going, in terms of taking breaks, staying focused, etc.?
-- What did you learn from this exercise that you want to remember as you begin Mod 1?
+- WThis final CFU encompassed everything you've learned in Mod 0, and maybe even required some learning outside of what you've explicitly been taught. How did it feel as you faced these challenges? I felt like this was a pretty straightforward CFU which has me worrying that I misunderstood some part of the assignment.
+- How is your workflow going, in terms of taking breaks, staying focused, etc.? I feel like my scheduling has set me up for success. Stepping away from my computer and taking walks has allowed me to return to these assignments with a refreshed mind and an excitement to continue. 
+- What did you learn from this exercise that you want to remember as you begin Mod 1? I think just building habits regarding syntax will be crucial. I want to make sure I start placing semicolons correctly as a reflex rather than as an afterthought. 
